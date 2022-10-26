@@ -1,6 +1,6 @@
 # Face Detection & Tracking from Live Video Stream using OpenCV-Python
 
-<img src="images/banner/face-tracking.jpg" width="1000"/>
+<img src="images/Banner/face-tracking.jpg" width="1000"/>
 
 ## 1. Objective 
 
