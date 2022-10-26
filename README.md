@@ -484,12 +484,12 @@ Program executed successfully on<span style="color:#308080; ">:</span> <span sty
 * We have demonstrated single face detection and tracking from live video stream using 7 tracking algorithms implemented in OpenCV Python:
 
   * The 5 tracking algorithms implemented in the OpenCV Tracking API all performed equally and extremely well, yielding nearly perfect tracking of the moving object of interest.
-  * BOOSTING
-  * MIL
-  * KCF
-  * TLD
-  * MEDIAN FLOW
-  * The other 2 tracking algorithms generally yield inadequate face tracking results, especially when the face is turned sideway form the camera:
+   * BOOSTING
+   * MIL
+   * KCF
+   * TLD
+   * MEDIAN FLOW
+  * The other 2 tracking algorithms generally yield inadequate face tracking results, especially when the face is turned sideway from the camera:
     * Mean-Shift
     * Cam-Shift
 
