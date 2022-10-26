@@ -452,7 +452,7 @@ Please select your tracker<span style="color:#308080; ">:</span> <span style="co
 
 <table>
   <tr>
-    <td> <img src="images/Boosting/Capture-00.PNG"  width="500" ></td>
+    <td> <img src="images/Boosting/Capture-00-selected.PNG"  width="500" ></td>
     <td> <img src="images/Boosting/Capture-01.PNG"  width="500" ></td>
    </tr> 
    <tr>
