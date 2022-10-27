@@ -6,6 +6,7 @@
 
 The objective of this project is to demonstrate face detection and tracking from live stream video using built-in OpenCV Python Haar Cascade face detector and object tracking functionalities. 
 
+
 ## 2. Face Tracking Approach
 
 * Our implemented approach is as follows: 
